@@ -6,27 +6,17 @@
 In the rapidly evolving cybersecurity domain, my passion for innovation, proactive vulnerability mitigation, and continuous learning have driven my journey in IT operations and cybersecurity. I am committed to a career in cybersecurity, specifically in pentesting and redteam.
 
 ___
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-gleidson&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-gleidson&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mr-gleidson&repo=RedTeam)](https://github.com/Mr-Gleidson/RedTeam)
+___
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-gleidson&layout=compact)
-
-https://github.com/Mr-Gleidson/RedTeam
-
+## Contact
 
 [![Contato](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleidsonmarquessantos/)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=345c8e&height=120&section=footer"/>
