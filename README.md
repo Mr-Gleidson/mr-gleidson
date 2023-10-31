@@ -7,13 +7,12 @@ In the rapidly evolving cybersecurity domain, my passion for innovation, proacti
 
 ___
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-gleidson&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-gleidson&show_icons=true&theme=great-gatsby&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-gleidson&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
-
 ___
-
+ 
 ## Contact
 
 [![Contato](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleidsonmarquessantos/)
